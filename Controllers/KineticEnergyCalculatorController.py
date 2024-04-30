@@ -1,5 +1,5 @@
 # PROGRAMMER: Brandy Nguyen 
-#from Views.KineticEnergyCalculatorView import KineticEnergyCalculatorView
+from Views.KineticEnergyCalculatorView import KineticEnergyCalculatorView
 
 class kineticEnergyCalculatorController :
     
