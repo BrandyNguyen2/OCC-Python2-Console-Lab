@@ -3,5 +3,5 @@ Python 2 Console Based Applications lab activity
 
 How to run:
 1. Clone repo
-2. Open in VS Code
+2. Open in VS Code or preferred code editor
 3. run "python KineticEnergyApplication.py"
